@@ -6,7 +6,7 @@ function App() {
         readOnly
         maxLength={3}
         spellCheck
-        style={{ backgroundColor: 'gray' }}
+        style={{ backgroundColor: 'lightgray' }}
       />
    </div>
   )
